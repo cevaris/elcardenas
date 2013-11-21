@@ -1,3 +1,5 @@
 name: Emilio Cardenas
 markdown: redcarpet
 pygments: true
+source:      _source
+destination: _site

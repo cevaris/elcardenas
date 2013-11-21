@@ -1,3 +1,3 @@
 #!/bin/sh
 
-jekyll build --source _source
+jekyll build --watch --source _source

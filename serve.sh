@@ -1,5 +1,5 @@
 #!/bin/sh
 
-chmod -R 755 _deploy
-cd _deploy
-jekyll serve
+
+jekyll build --source _source --destination _deploy
+jekyll serve --source _deploy

@@ -1,3 +1,3 @@
 #!/bin/sh
 
-jekyll build --source _source --destination _deploy
+jekyll build --source _source
